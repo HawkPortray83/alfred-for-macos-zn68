@@ -1,4 +1,4 @@
-#  
+#  top Alfred for macOS Extension | widgets + task automation is the best Alfred for macOS extension, featuring widgets and task automation. Safe, efficient, and optimized for macOS
 
 
 
